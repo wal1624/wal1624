@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wal1624
 - 👀 I’m interested in machine learning, data science, and quantum computing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning artifical intelligence
 - 💞️ I’m looking to collaborate on whatever projects that will allow me to grow as a computer scientist
 - 📫 How to reach me: At waliaro24@gmail.com
 
